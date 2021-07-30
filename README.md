@@ -18,12 +18,14 @@ The first course will teach you the fundamentals of SQL such as JOINs, Aggregati
 
 In this project, you’ll work with a relational database while working with PostgreSQL. You’ll complete the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer your questions and finishing by sharing your findings.
 
-
+**Review The Project** : [Investigate a Database](https://github.com/YousefAyman56/Programming_for_Data_Science/tree/master/Project%201%20Investigate%20a%20Database)
 ## Course 2 : Introduction to Python Programming
 ***
 In this part, you’ll learn to represent and store data using Python data types and variables, and use conditionals and loops to control the flow of your programs. You’ll harness the power of complex data structures like lists, sets, dictionaries, and tuples to store collections of related data. You’ll define and document your own custom functions, write scripts, and handle errors. You will also learn to use two powerful Python libraries - Numpy, a scientific computing package, and Pandas, a data manipulation package.
 ### **Project 2 : Explore US Bikeshare Data**
 You will use Python to answer interesting questions about bikeshare trip data collected from three US cities. You will write code to collect the data, compute descriptive statistics, and create an interactive experience in the terminal that presents the answers to your questions.
+
+**Review The Project** : [Explore US Bikeshare Data](https://github.com/YousefAyman56/Programming_for_Data_Science/tree/master/Project%202%20Explore%20US%20Bikeshare%20Data)
 
 ## Course 3 : Introduction to Version Control
 ***
@@ -32,9 +34,10 @@ science industry.
 ### **Project 3 : Post your work on Github**
 In this project, you will learn important tools that all programmers use. First, you’ll get an introduction to working in the terminal. Next,you’ll learn to use git and Github to manage versions of a program and collaborate with others on programming projects. In this project you will add a completed project on GitHub, work with branches, edit a README file and project files, merge branches, stage and commit your changes to your project GitHub repository.
 
+**Review The Project** : [Post your work on Github](https://github.com/YousefAyman56/Programming_for_Data_Science/tree/master/Project%203%20Post%20your%20work%20on%20Github)
 ## Cerificate of Completion
 ***
-[Certification](https://confirm.udacity.com/CT4RG2TE)
+[Certification Link](https://confirm.udacity.com/CT4RG2TE)
 
 
 
