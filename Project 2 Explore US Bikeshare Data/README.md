@@ -13,7 +13,8 @@ In this project, you will make use of Python to explore data related to bike sha
 ***
 1 - Dataset files of 3 cities :
 - .gitignore
-2 - An python file contain the scripts :
+
+2 - Python script file :
 - bikeshare_2.py
 
 ## Resources
